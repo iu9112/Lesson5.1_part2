@@ -1,0 +1,21 @@
+{
+    "name": "lesson5.1",
+    "version": "1.0.0",
+    "description": "none",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha",
+        "start":"node index.js"
+    },
+    "author": "Savenkov",
+    "license": "MIT",
+    "dependencies": {
+        "express": "*",
+        "body-parser": "*"
+    },
+    "devDependencies": {
+        "chai": "*",
+        "chai-http": "*",
+        "mocha": "*"
+    }
+}
